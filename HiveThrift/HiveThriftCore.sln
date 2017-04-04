@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Example.Core", "Example.Core\Example.Core.xproj", "{4F9FBEEC-6C37-47BD-B325-F77733B09FA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example.Core", "Example.Core\Example.Core.csproj", "{4F9FBEEC-6C37-47BD-B325-F77733B09FA1}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HiveThrift.NetCore", "HiveThrift.NetCore\HiveThrift.NetCore.xproj", "{5438EF72-77B3-4B58-8BDB-DCDCB50A029D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiveThrift.NetCore", "HiveThrift.NetCore\HiveThrift.NetCore.csproj", "{5438EF72-77B3-4B58-8BDB-DCDCB50A029D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
